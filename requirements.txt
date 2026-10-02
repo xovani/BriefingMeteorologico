@@ -1,0 +1,5 @@
+customtkinter>=5.2.2,<6
+requests>=2.32,<3
+pytest>=8,<10
+shapely>=2.0,<3
+pyproj>=3.6,<4
